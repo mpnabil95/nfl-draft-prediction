@@ -47,7 +47,9 @@ These are cross-validation estimates on the provided training data, not public o
 ├── assets/
 │   └── model_comparison.png
 ├── input/
-│   └── README.md
+│   ├── train.csv
+│   ├── test.csv
+│   └── sample_submission.csv
 ├── outputs/
 │   ├── README.md
 │   ├── feature_importance.csv
