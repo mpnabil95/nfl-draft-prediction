@@ -1,0 +1,23 @@
+{
+  "seed": 42,
+  "cv_folds": 5,
+  "selected_candidate": "Probability average (top 3)",
+  "selected_members": [
+    "Histogram Gradient Boosting",
+    "Random Forest",
+    "Logistic Regression"
+  ],
+  "oof_roc_auc": 0.8394331419912506,
+  "bootstrap_95_ci": [
+    0.8231689218088571,
+    0.8544257179089417
+  ],
+  "train_shape": [
+    2781,
+    16
+  ],
+  "test_shape": [
+    696,
+    15
+  ]
+}
