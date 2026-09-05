@@ -47,6 +47,7 @@ These are cross-validation estimates on the provided training data, not public o
 ├── assets/
 │   └── model_comparison.png
 ├── input/
+│   ├── README.md
 │   ├── train.csv
 │   ├── test.csv
 │   └── sample_submission.csv
@@ -63,7 +64,7 @@ These are cross-validation estimates on the provided training data, not public o
 ├── .gitignore
 ├── LICENSE
 ├── README.md
-├── nfl_draft_prediction_professional.ipynb
+├── nfl_draft_prediction.ipynb
 └── requirements.txt
 ```
 
