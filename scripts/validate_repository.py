@@ -11,7 +11,7 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-NOTEBOOK = ROOT / "nfl_draft_prediction_professional.ipynb"
+NOTEBOOK = ROOT / "nfl_draft_prediction.ipynb"
 OUTPUT_DIR = ROOT / "outputs"
 INPUT_DIR = ROOT / "input"
 
